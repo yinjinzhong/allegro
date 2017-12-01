@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SO8_JUP.dra                                   )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Fri Sep 23 20:52:52 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM
+    Name      = so8_jup.psm
+    User      = yin
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

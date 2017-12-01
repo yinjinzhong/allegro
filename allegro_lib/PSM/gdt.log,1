@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : GDT.dra                                       )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Apr 05 21:50:28 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/yin/WORK/ALTUS/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = gdt.psm
+    User      = yin
+    Machine   = YINJINZHONG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

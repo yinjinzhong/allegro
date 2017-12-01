@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : qfn_shape_020_085.dra                         )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Wed Oct 14 10:35:42 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR IN SHAPE (no segment)
+  class = ETCH
+  subclass = TOP 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+   Error was fixed, object was deleted.
+
+0 warnings, 1 errors detected, 1 errors  fixed.

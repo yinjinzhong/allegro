@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : GS3911CR.dra                                  )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Sat Jul 22 03:46:10 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM
+    Name      = gs3911cr.psm
+    User      = yin
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

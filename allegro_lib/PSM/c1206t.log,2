@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : C1206T.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jan 22 13:50:01 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/1-WORK/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = c1206t.psm
+    User      = Administrator
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

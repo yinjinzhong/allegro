@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : WCS2801.dra                                   )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Mon Nov 21 20:00:27 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM
+    Name      = wcs2801.psm
+    User      = yin
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DG340_3_81_3P.dra                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Mar 14 20:54:55 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/yin/WORK/ALTUS/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = dg340_3_81_3p.psm
+    User      = yin
+    Machine   = YINJINZHONG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

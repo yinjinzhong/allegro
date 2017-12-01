@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : xtal_3225.dra                                 )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Wed Oct 14 13:57:10 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/1-WORK/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = xtal_3225.psm
+    User      = Administrator
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

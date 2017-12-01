@@ -1,0 +1,19 @@
+# Allegro script
+#	file: D:/1-WORK/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/BSM/1.scr
+#	start time: Thu Nov 19 11:29:34 2015
+#	Version: 16.6 S044 (v16-6-112DK) Windows 32
+version 16.6
+
+setwindow pcb
+trapsize 900
+# Macro file: coordinates are relative to pick on replay.
+pick_origin
+drag_start rel grid 0.0000 0.0000
+drag_stop rel 14.8522 -9.9375
+drag_start rel grid -18.2187 10.3515
+drag_stop rel 17.4626 -10.4055
+drag_start rel grid -17.3185 10.3695
+drag_stop rel 16.2203 -10.5135
+prepopup rel -3.9606 8.2092
+
+#	stop time: Thu Nov 19 11:29:55 2015

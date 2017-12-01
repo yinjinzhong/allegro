@@ -1,0 +1,29 @@
+\t (00:26:09) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:26:09)     Journal start - Sun Apr 05 16:59:31 2015
+\t (00:26:09)         Host=YINJINZHONG User=yin Pid=7820 CPUs=4
+\t (00:26:09) 
+\i (00:26:13) pse_save_as 
+\i (00:26:43) fillin "C:\Users\yin\WORK\ALTUS\2-Hardware\ALTUS_ALLEGRO_LIB\allegro_lib\PAD\RX1_15y1_25.pad"
+\i (00:26:47) FORM padedit grid row begin_layer 
+\i (00:26:52) FORM padedit height 1.2500 
+\i (00:26:52) FORM padedit grid row soldermask_top 
+\i (00:26:53) FORM padedit grid row begin_layer 
+\i (00:26:54) FORM padedit grid rpopup begin_layer Copy 
+\i (00:26:54) FORM padedit grid row soldermask_top 
+\i (00:26:55) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:26:56) FORM padedit grid row soldermask_bottom 
+\i (00:26:57) FORM padedit grid row pastemask_top 
+\i (00:26:58) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:26:59) pse_save 
+\i (00:41:24) pse_save_as 
+\i (00:41:31) fillin "rx1_15y1_25.pad"
+\i (00:41:34) pse_save 
+\i (00:41:34) fillin yes 
+\i (00:44:33) FORM padedit grid row begin_layer 
+\i (00:44:35) FORM padedit grid row pastemask_top 
+\i (00:44:39) FORM padedit grid rpopup pastemask_top  
+\i (00:44:40) pse_save_as 
+\i (00:44:51) fillin "rx1_15y1_25.pad"
+\i (00:49:31) pse_open C:/Users/yin/WORK/ALTUS/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PAD/RX1_15y1_25.pad 
+\i (00:49:35) pse_open C:/Users/yin/WORK/ALTUS/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PAD/rx1_15y1_25.pad 
+\t (00:49:35)     Journal end - Sun Apr 05 17:22:58 2015

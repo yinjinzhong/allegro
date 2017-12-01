@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : NS1121S_2P.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jan 22 10:40:57 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/1-WORK/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = ns1121s_2p.psm
+    User      = Administrator
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

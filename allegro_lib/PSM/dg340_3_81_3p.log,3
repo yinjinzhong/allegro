@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DG340_3_81_3P.dra                             )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Thu Jun 02 21:06:55 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM
+    Name      = dg340_3_81_3p.psm
+    User      = yin
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

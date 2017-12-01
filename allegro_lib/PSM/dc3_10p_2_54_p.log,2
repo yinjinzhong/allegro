@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DC3_10P_2_54_P.dra                            )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Tue Nov 17 17:20:24 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/1-WORK/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = dc3_10p_2_54_p.psm
+    User      = Administrator
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : core.dra                                      )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Sat Oct 24 07:08:42 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM
+    Name      = core.psm
+    User      = yin
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,46 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : esd_5_5.dra                                   )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Thu Oct 29 14:52:29 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Retrieve closedLoop with segments (nil) failed
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Retrieve closedLoop with segments (nil) failed
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(ETCH)
+Get shape struct returns nil
+A total of 0 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+WARNING(SPMHIS-473): 1222 selected items completely overlapped with segments from other selected items and have been filtered.
+current class name(ETCH)
+WARNING(SPMHIS-473): 1460 selected items completely overlapped with segments from other selected items and have been filtered.
+current class name(ETCH)

@@ -1,0 +1,67 @@
+Wed Apr 06 22:34:38 2016				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Wed Apr 06 22:34:38 2016
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : SIP9_L.dra                                    )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Wed Apr 06 22:34:38 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Apr 06 22:34:38 2016				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/SIP9_L.dra'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'YES'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'YES'
+Ripup Etch                             = 'YES'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/BSM/ 
+
+PADPATH =  E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/BSM/ 
+
+
+------ Symbol Refresh Messages ------
+
+'F160_190_030'  symbol refreshed successfully.
+'F150_180_070'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 2 out 2
+    Design updated.
+

@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : R2520.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Mar 14 22:16:24 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+current class name(ETCH)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+Info: Can not start path from (dbid:262332540 dbid:262332560 dbid:262332580 dbid:262332600)
+Info: Can not start path from (dbid:262332540 dbid:262332560 dbid:262332580 dbid:262332600)
+A total of 1 shapes were created.

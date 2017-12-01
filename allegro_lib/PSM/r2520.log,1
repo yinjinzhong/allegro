@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : R2520.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Mar 14 22:19:16 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/yin/WORK/ALTUS/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = r2520.psm
+    User      = yin
+    Machine   = YINJINZHONG
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

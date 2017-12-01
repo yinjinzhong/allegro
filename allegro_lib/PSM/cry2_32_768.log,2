@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CRY2_32_768.dra                               )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Jan 22 16:47:00 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/1-WORK/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = cry2_32_768.psm
+    User      = Administrator
+    Machine   = YIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

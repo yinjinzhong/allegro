@@ -1,0 +1,13 @@
+(DEVICE FILE: sot_23_3)
+
+PACKAGE sot_23_3
+CLASS IC
+PINCOUNT 3
+
+PINORDER sot_23_3  1 2 3
+
+PINSWAP sot_23_3  1 2 3
+
+FUNCTION sot_23_3 sot_23_3  1 2 3
+
+END

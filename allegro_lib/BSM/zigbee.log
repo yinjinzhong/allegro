@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : zigbee.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed May 14 14:36:07 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/WORK/FCATE/Hardware/allegro_lib/BSM
+    Name      = zigbee.bsm
+    User      = yinjinzhong
+    Machine   = YIN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

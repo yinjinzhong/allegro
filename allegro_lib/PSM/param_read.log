@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : SOT_563.dra                                   )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Thu Nov 09 23:48:00 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : C:/Users/yin/Desktop/1.prm
+	Layout Name   : E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/SOT_563.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...ministat_parm_type:
+Reading...ifp_parm_type:
+Reading...ats_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

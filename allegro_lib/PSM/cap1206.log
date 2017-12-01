@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : cap1206.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Jul 25 12:15:56 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/yin/WORK/FCATE/Hardware/allegro_lib/PSM
+    Name      = cap1206.psm
+    User      = yin
+    Machine   = YINJINZHONG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

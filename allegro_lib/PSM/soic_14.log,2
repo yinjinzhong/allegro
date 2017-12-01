@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : soic_14.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jun 09 10:09:29 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/yin/WORK/FCATE/Hardware/allegro_lib/PSM
+    Name      = soic_14.psm
+    User      = yin
+    Machine   = YINJINZHONG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PTC.dra                                       )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Apr 04 15:04:30 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/yin/WORK/ALTUS/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = ptc.psm
+    User      = yin
+    Machine   = YINJINZHONG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

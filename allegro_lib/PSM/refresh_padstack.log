@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : GS3911CR.dra                                  )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Sat Jul 22 03:58:34 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Jul 22 03:58:34 2017				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/GS3911CR.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/BSM/ 
+
+PADPATH =  E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/BSM/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'RX3_00Y1_40'  pad stack refresh starting.
+
+     'RX3_00Y1_40'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

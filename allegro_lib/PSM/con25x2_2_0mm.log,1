@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CON25X2_2_0MM.dra                             )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Thu Oct 08 15:52:46 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/1-WORK/2-HARDWARE/ALTUS_ALLEGRO_LIB/allegro_lib/PSM
+    Name      = con25x2_2_0mm.psm
+    User      = buyadong
+    Machine   = DESKTOP-040E9M0
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

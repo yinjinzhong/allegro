@@ -1,0 +1,16 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character $ with X in $MODEL_SPACE.
+NOTE: Replacing illegal character $ with X in $PAPER_SPACE.
+NOTE: Replacing illegal character $ with X in A$C6F317A64.
+NOTE: Replacing illegal character $ with X in A$C25B84CB6.
+done.
+Layer conversion file: C:/Users/yinjinzhong/Desktop/PCB_OUTLINE_l.cnv
+DXF file: C:/Users/yinjinzhong/Desktop/PCB_OUTLINE.dxf
+BRD file: C:/WORK/FCATE/Hardware/allegro_lib/BSM/#Taaaahz07324.dra
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.

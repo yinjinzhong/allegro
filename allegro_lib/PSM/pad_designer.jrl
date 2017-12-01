@@ -1,0 +1,44 @@
+\t (05:15:21) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (05:15:21)     Journal start - Sun Apr 05 21:48:43 2015
+\t (05:15:21)         Host=YINJINZHONG User=yin Pid=7820 CPUs=4
+\t (05:15:21) 
+\i (05:15:23) FORM padedit crossbox YES 
+\i (05:15:25) pse_save_as 
+\i (05:15:59) fillin "rx1_00y5_00.pad"
+\i (05:16:01) FORM padedit grid row begin_layer 
+\i (05:16:02) FORM padedit parameters  
+\i (05:16:03) FORM padedit layers  
+\i (05:16:08) FORM padedit width 1 
+\i (05:16:09) FORM padedit height 5 
+\i (05:16:12) FORM padedit grid rpopup begin_layer Copy 
+\i (05:16:13) FORM padedit grid row soldermask_top 
+\i (05:16:14) FORM padedit grid rpopup soldermask_top Paste 
+\i (05:16:15) FORM padedit grid row pastemask_top 
+\i (05:16:16) FORM padedit grid rpopup pastemask_top Paste 
+\i (05:16:18) pse_save 
+\i (05:16:19) fillin yes 
+\i (05:16:21) pse_save_as 
+\i (05:16:35) fillin "rx2_20y5_00.pad"
+\i (05:16:36) FORM padedit grid row begin_layer 
+\i (05:16:40) FORM padedit width 2.2 
+\i (05:16:43) FORM padedit grid rpopup begin_layer Copy 
+\i (05:16:43) FORM padedit grid row soldermask_top 
+\i (05:16:45) FORM padedit grid rpopup soldermask_top Paste 
+\i (05:16:46) FORM padedit grid row pastemask_top 
+\i (05:16:47) FORM padedit grid rpopup pastemask_top Paste 
+\i (05:16:50) pse_save 
+\i (05:16:51) fillin yes 
+\i (05:28:04) pse_save_as 
+\i (05:29:35) fillin "rx0_65y0_30.pad"
+\i (05:29:37) FORM padedit grid row begin_layer 
+\i (05:29:42) FORM padedit width 0.65 
+\i (05:29:45) FORM padedit height 0.3 
+\i (05:29:49) FORM padedit grid rpopup begin_layer Copy 
+\i (05:29:50) FORM padedit grid row soldermask_top 
+\i (05:29:51) FORM padedit grid rpopup soldermask_top Paste 
+\i (05:29:52) FORM padedit grid row pastemask_top 
+\i (05:29:54) FORM padedit grid rpopup pastemask_top Paste 
+\i (05:30:07) pse_save 
+\i (05:30:08) fillin yes 
+\i (06:42:44) pse_exit
+\t (06:42:45)     Journal end - Sun Apr 05 23:16:08 2015

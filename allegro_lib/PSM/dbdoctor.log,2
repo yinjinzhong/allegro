@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : rn_bourns_cat10.dra                           )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Mon Oct 12 16:23:20 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING(SPMHDB-288): This design is locked for writing.
+This database has been marked as a .SAV.
+An attempt will be made to correct the problems.
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 0   after update: 0
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:00
+
+Problems were corrected, database is no longer a .SAV!
+0 warnings, 0 errors detected, 0 errors  fixed.
+
+Problems were corrected, database is no longer a .SAV!

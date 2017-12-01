@@ -1,0 +1,22 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Thu Nov 09 23:35:57 2017
+\t (00:00:00)         Host=YIN-PC User=yin Pid=20720 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:05) fillin "rectx0_25y0_4.pad"
+\i (00:00:25) pse_save_as 
+\i (00:00:33) fillin "rectx0_30y0_45.pad"
+\i (00:00:36) FORM padedit layers  
+\i (00:00:37) FORM padedit grid row begin_layer 
+\i (00:00:41) FORM padedit width 0.3 
+\i (00:00:44) FORM padedit height 0.45 
+\i (00:00:47) FORM padedit grid rpopup begin_layer Copy 
+\i (00:00:49) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:00:50) FORM padedit grid row pastemask_top 
+\i (00:00:51) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:00:53) pse_save 
+\i (00:00:54) fillin yes 
+\i (00:00:57) pse_exit 
+\t (00:00:57)     Journal end - Thu Nov 09 23:36:54 2017

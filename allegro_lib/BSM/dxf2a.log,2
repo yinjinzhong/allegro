@@ -1,0 +1,15 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+done.
+Layer conversion file: ESD_Logo_l.cnv
+DXF file: ESD_Logo.dxf
+BRD file: D:/1-WORK/2-Hardware/ALTUS_ALLEGRO_LIB/allegro_lib/BSM/#Taaaabk16732.dra
+Update existing design?: NO
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILLIMETERS
+Design precision: 4
+dxf2a complete.

@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : WLCSP15.dra                                   )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Mon Oct 12 17:08:11 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : E:/1-WORK/2-HARDWARE/ALTUS_ALLEGRO_LIB/allegro_lib/Footprint_param.prm
+	Layout Name   : WLCSP15.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...netCustomColors:
+Reading...text_size_table:
+Reading...ats_parm_type:
+Reading...ministat_parm_type:
+Reading...ifp_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

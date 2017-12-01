@@ -1,0 +1,21 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Sat Jul 22 03:57:39 2017
+\t (00:00:00)         Host=YIN-PC User=yin Pid=13068 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) FORM padedit layers  
+\i (00:00:05) FORM padedit grid row begin_layer 
+\i (00:00:11) pse_open E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/rx3_00y1_40.pad 
+\i (00:00:14) FORM padedit grid row soldermask_top 
+\i (00:00:15) FORM padedit grid row begin_layer 
+\i (00:00:21) FORM padedit height 1.4 
+\i (00:00:24) FORM padedit grid rpopup begin_layer Copy 
+\i (00:00:25) FORM padedit grid row soldermask_top 
+\i (00:00:26) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:00:27) FORM padedit grid row pastemask_top 
+\i (00:00:29) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:00:32) pse_save 
+\i (00:00:33) fillin yes 
+\i (00:00:35) pse_exit
+\t (00:00:35)     Journal end - Sat Jul 22 03:58:14 2017

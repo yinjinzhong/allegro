@@ -1,0 +1,46 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : HDR_2X20_SMT_0_5-F.dra                        )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Tue Apr 25 21:41:46 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Apr 25 21:41:46 2017				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/HDR_2X20_SMT_0_5-F.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/BSM/ 
+
+PADPATH =  E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/BSM/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'HOLE1_0'  pad stack refresh starting.
+
+     'HOLE1_0'  pad stack refreshed successfully.
+     
+'HOLE1_4'  pad stack refresh starting.
+
+     'HOLE1_4'  pad stack refreshed successfully.
+     
+'RX0_50Y2_40'  pad stack refresh starting.
+
+     'RX0_50Y2_40'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

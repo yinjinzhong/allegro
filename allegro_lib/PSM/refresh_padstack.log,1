@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : IB_XT-1WR2.dra                                )
+(    Software Version : 16.6S044                                      )
+(    Date/Time        : Sat Nov 05 09:31:46 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Nov 05 09:31:46 2016				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/IB_XT-1WR2.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/BSM/ 
+
+PADPATH =  E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PAD/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/PSM/ 
+           E:/WORK/FCATE/Hardware/Cadence_LIB/allegro_lib/BSM/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'RX2_70Y1_15'  pad stack refresh starting.
+
+     'RX2_70Y1_15'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sip2.dra                                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun May 11 14:09:04 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/WORK/FCATE/Hardware/allegro_lib/PSM
+    Name      = sip2.psm
+    User      = yinjinzhong
+    Machine   = YIN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
