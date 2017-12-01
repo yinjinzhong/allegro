@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/yin/work'
+let g:netrw_dirhist_2='/home/yin/work/CN120SM'
+let g:netrw_dirhist_3='/home/yin/work/A7_CSR/linux-atlas7-with-synergy/poky/sources/kernel/include/video'
