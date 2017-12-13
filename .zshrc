@@ -89,9 +89,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias minicom0="sudo minicom /dev/ttyUSB0 -D /dev/ttyUSB0"
-alias minicom1="sudo minicom /dev/ttyUSB1 -D /dev/ttyUSB1"
-alias minicom2="sudo minicom /dev/ttyUSB2 -D /dev/ttyUSB2"
+alias minicom0="sudo minicom /dev/ttyUSB0 -D /dev/ttyUSB0 -C minicom0-$(date +%Y-%m-%d_%H:%M:%S).log"
+alias minicom1="sudo minicom /dev/ttyUSB1 -D /dev/ttyUSB1 -C minicom1-$(date +%Y-%m-%d_%H:%M:%S).log"
+alias minicom2="sudo minicom /dev/ttyUSB2 -D /dev/ttyUSB2 -C minicom2-$(date +%Y-%m-%d_%H:%M:%S).log"
 
 alias grep="grep --color=auto"
 
