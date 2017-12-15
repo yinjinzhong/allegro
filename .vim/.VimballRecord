@@ -1,1 +1,2 @@
-getscript.vba: call delete('/home/linux/.vim/plugin/getscriptPlugin.vim')|call delete('/home/linux/.vim/autoload/getscript.vim')|call delete('/home/linux/.vim/GetLatest/GetLatestVimScripts.dist')|call delete('/home/linux/.vim/doc/pi_getscript.txt')
+getscript.vba: call delete('/home/yin/.vim/plugin/getscriptPlugin.vim')|call delete('/home/yin/.vim/autoload/getscript.vim')|call delete('/home/yin/.vim/GetLatest/GetLatestVimScripts.dist')|call delete('/home/yin/.vim/doc/pi_getscript.txt')
+ZoomWin.vba: call delete('/home/yin/.vim/plugin/ZoomWinPlugin.vim')|call delete('/home/yin/.vim/doc/ZoomWin.txt')|call delete('/home/yin/.vim/autoload/ZoomWin.vim')

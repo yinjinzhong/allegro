@@ -100,6 +100,21 @@ nnoremap <Tab>	 gt
 nnoremap <S-Tab> gT
 nnoremap <silent> <S-t>  :tabnew<CR>
 
+"" Copy
+if has('unnamedplus')
+    set clipboard=unnamed,unnamedplus
+endif
+
+noremap YY "+y<CR>
+noremap p  "+gP<CR>
+noremap XX "+x<CR>
+
+if has('macunix')
+"pbcopy for OSX copy/paste
+vmap <C-x> :!pbcopy<CR>
+vmap <C-c> :w !pbcopy<CR><CR>
+endif
+
 " PLUGIN SETTINGS: {{{1
 " taglist.vim
 let g:Tlist_Auto_Update=1
@@ -144,9 +159,9 @@ let g:LookupFile_AllowNewFiles=0
 " Man.vim
 source $VIMRUNTIME/ftplugin/man.vim
 " snipMate
-let g:snips_author="Du Jianfeng"
-let g:snips_email="cmdxiaoha@163.com"
-let g:snips_copyright="SicMicro, Inc"
+let g:snips_author=""
+let g:snips_email="@m"
+let g:snips_copyright=""
 " plugin shortcuts
 function! RunShell(Msg, Shell)
 	echo a:Msg . '...'
