@@ -110,4 +110,6 @@ alias -s txt=vi
 
 alias nautilus='nautilus ./'
 
+alias emacs='TERM=xterm-256color emacs -nw'
+
 alias 120S="cd /home/yin/work/CN120SM"
